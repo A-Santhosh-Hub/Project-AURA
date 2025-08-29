@@ -1,0 +1,7 @@
+{
+  "name": "Project AURA: Multi-Form Audio Visualizer",
+  "description": "An immersive, multi-form audio visualizer that transforms sound into a dynamic digital canvas. Supports microphone input and local audio files, with various visualization modes and customizable themes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
